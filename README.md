@@ -1,6 +1,7 @@
 # Instructions on how to run the program
 
 - Clone the repository
+- Head into Python-Vaccination-Rollout/countriesData and extract the zip file into the current directory
 - Begin by opening the terminal within your local cloned repository
 - You will need to install requests by doing pip install requests
 
