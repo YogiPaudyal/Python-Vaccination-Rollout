@@ -7,7 +7,7 @@
 - Run the python script cli.py (this is the main file)
 - You must provide 5 arguments
 
-- Command line entry point as such:
+# Command line entry point as such:
 
     $ python cli.py country1 country2 start-date end-date save/show       # required arguments
     $ python cli.py iso1 iso2 yyyy-mm-dd yyyy-mm-dd save/show             # format
